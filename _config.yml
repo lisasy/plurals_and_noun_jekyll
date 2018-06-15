@@ -1,6 +1,8 @@
 ---
 title: Plurals and Noun
 timezone: UTC
+url: "pluralsandnoun.siteleaf.net"
+description: "Plurals and Noun is Lisa Sy's comic about things that have happened."
 collections:
   posts:
     title: Posts
