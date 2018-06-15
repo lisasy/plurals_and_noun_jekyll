@@ -4,6 +4,7 @@ gem "jekyll", "~> 3.8.3"
 
 gem "minima", "~> 2.0"
 
+gem "github-pages"
 # gem "jekyll-github-metadata"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
