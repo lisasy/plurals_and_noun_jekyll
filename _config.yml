@@ -24,3 +24,5 @@ url: pluralsandnoun.siteleaf.net
 description: Plurals and Noun is Lisa Sy's comic about things that have happened.
 permalink: pretty
 repository: lisasy/plurals_and_noun_jekyll
+sass:
+  sass_dir: css/_sass
