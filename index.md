@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: page
 ---
 
 Welcome to Plurals and Noun!
